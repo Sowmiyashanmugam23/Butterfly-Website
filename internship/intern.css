@@ -1,0 +1,214 @@
+.header{
+    height: 300px;
+    width:1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(rgb(134, 3, 106),white,pink,violet)
+}
+.h{
+    height: 250px;
+    width: 1000px;
+    
+}
+.logo{
+    height: 250px;
+    width: 300px; 
+    float: left;
+    clip-path: ellipse();
+}
+.name{
+    height: 250px;
+    width: 700px;
+    float: right;
+}
+.n{
+    position: relative;
+    top: 100px;
+    left: 250px;
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+    text-shadow: 3px 0 0 rgb(rgb(71, 67, 67));
+}
+.menu{
+    height: 100px;
+    width: 1000px;
+    float: left;
+    color:white;
+    background-color: violet;
+}
+.menu ul li {
+    display: inline;
+    padding: 25px;
+   
+}
+.menu ul li a{
+    text-decoration: none;
+    
+}
+.search{   
+    top: 3px;
+    left: 70%;
+    
+}
+.footer{
+    height: 100px;
+    width:1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(rgb(134, 3, 106),white,pink,violet);
+}  
+.c{
+    font-size: 20px;
+    font-style: italic;
+    top:20px;
+    left: 450px;
+    position: relative;
+}
+.gmail{
+    font-size: 20px;
+    font-style: italic;
+    top:20px;
+    left: 420px;
+    position: relative;
+
+}
+.icon{
+    position: relative;
+    top: 25px;
+    left: 470px;
+}
+.background{
+    height: 600px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.home{
+    height: 600px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:violet;
+}
+.i{
+    height: 200px;
+    width: 1000px;
+    float: left;
+}
+.img1{
+    float: left;
+}
+.img2{
+    float: right;
+}
+.heading{
+    height: 100px;
+    width: 1000px;
+    float: left;
+    text-align: center;
+}
+.para{
+    height: 100px;
+    width: 1000px;
+    float: left;
+    text-align: center;
+}
+.j{
+    height: 200px;
+    width: 1000px;
+    float: left;
+}
+.img3{
+    float: left;
+}
+.img4{
+    float: right;
+}
+.register{
+    height: 600px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:violet;
+    font-size: 24px;
+    text-align: center;
+    top: 10px;
+}
+.about{
+    height: 600px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:violet;
+}
+.pic1{
+    height: 300px;
+    width: 300px;
+    float: left; 
+}
+.pic2{
+    height: 300px;
+    width: 400px; 
+    float: left;  
+}
+.pic3{
+    height: 300px;
+    width: 300px; 
+    float: right;    
+}
+.pic4{ 
+    height: 300px;
+    width: 300px; 
+    float: left;   
+}
+.pic5{
+    height: 300px;
+    width: 400px; 
+    float: left;    
+}
+.pic6{
+    height: 300px;
+    width: 300px;
+    float: right;    
+}
+.table{
+    height: 600px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:violet;
+    text-align: center;
+}
+th{
+    background-color: blueviolet
+}
+td:hover{
+    background-color: crimson;
+}
+.contact{
+    height: 600px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:violet;
+}
+.map{
+    height: 300px;
+    width: 1000px;
+    float: left;
+}
+.address{
+    height: 300px;
+    width: 500px;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+}
+.contact1{
+    height: 300px;
+    width: 500px;
+    font-size: 20px;
+    float: right;
+    text-align: center;
+}
